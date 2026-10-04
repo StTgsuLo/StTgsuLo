@@ -49,7 +49,7 @@ Interested in football, anime, gaming, technology, and product design.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StTgsuLoE&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StTgsuLo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
